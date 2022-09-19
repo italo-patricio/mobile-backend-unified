@@ -1,0 +1,12 @@
+[submodule "zelda"]
+	path = zelda
+	url = git@github.com:elo7/zelda.git
+	branch = ELO-8404
+[submodule "nightfort"]
+	path = nightfort
+	url = git@github.com:elo7/nightfort.git
+	branch = master
+[submodule "bucket-api"]
+	path = bucket-api
+	url = git@github.com:elo7/bucket-api.git
+	branch = master
